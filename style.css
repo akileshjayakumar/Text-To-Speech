@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #121212; /* Slightly lighter black for better contrast */
+  background-color: #000000; /* Slightly lighter black for better contrast */
 }
 
 /* Wrapper styles */
@@ -113,8 +113,7 @@ form button:hover {
 
 /* Footer styling */
 .footer {
-  background-color: #121212; /* Matching the body background for consistency */
-  color: #ffffff;
+  color: #1bd7ca;
   text-align: center;
   padding: 1rem 0; /* Adjust padding */
   position: fixed;
