@@ -1,48 +1,48 @@
-# Text to Speech Project
+# [Text to Speech](https://akileshjayakumar.github.io/text-to-speech/)
 
-## Introduction
+## Key Features
 
-Welcome to my Text to Speech Project! This initiative is a showcase of my web development skills, highlighting my ability to create interactive, user-centric web applications. The project utilizes HTML, CSS, and JavaScript, incorporating web speech API to convert text inputted by the user into spoken words, thereby enhancing accessibility and user engagement.
+- **Dynamic Text to Speech Conversion:** Converts text input by users into audible speech, making the content accessible to individuals with visual impairments.
+- **Voice Selection:** Users can select from a variety of voices for a personalized speech output experience.
+- **Responsive Design:** Ensures a seamless user experience across all device types, from desktops to mobile phones.
+- **Intuitive User Interface:** Features a simple, user-friendly interface that is easy to navigate for all users.
+- **Interactive Feedback:** Offers real-time auditory feedback, improving the interactive nature of the application.
+- **Accessibility Features:** Designed to be accessible, catering to users with various disabilities.
 
-## Features
+## Tools and Technologies
 
-- **Dynamic Text to Speech Conversion:** Converts user-entered text into speech, making content accessible to a broader audience, including those with visual impairments.
-- **Voice Selection:** Allows users to choose from a variety of voices, enabling a customized speech output experience.
-- **Responsive Design:** Fully responsive and optimized for a wide range of devices, ensuring a seamless user experience on both desktops and mobile devices.
-- **Intuitive User Interface:** A clean, user-friendly interface that facilitates easy interaction for all users, regardless of their tech-savviness.
-- **Interactive Feedback:** Provides real-time auditory feedback, enhancing the interactive aspect of the web application.
-- **Accessibility Features:** Designed with accessibility in mind, ensuring that the application is usable by people with various disabilities.
-
-## Tools Used
-
-- **Frontend:** HTML, CSS (utilizing the Poppins font for a sleek design), JavaScript (for interactive functionality)
-- **Web APIs:** SpeechSynthesis Interface of the Web Speech API
+- **Frontend:** HTML, CSS (using the Poppins font for sleek design), JavaScript (for dynamic interactions)
+- **Web APIs:** Utilizes the SpeechSynthesis Interface of the Web Speech API
 - **Version Control:** Git
-- **Deployment:** Deployed on GitHub Pages, utilizing GitHub for continuous integration and deployment
+- **Deployment:** Hosted on GitHub Pages, with continuous integration and deployment via GitHub
 
-## Project Setup
+## Getting Started
 
-To experience the Text to Speech application on your local environment:
+To set up the Text to Speech application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourGithubUsername/text-to-speech.git`
-2. Navigate to the project directory: `cd text-to-speech`
-3. Open the `index.html` file in your preferred web browser to start interacting with the application.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourGithubUsername/text-to-speech.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd text-to-speech
+   ```
+3. **Launch the application:**
+   Open `index.html` in your browser to start interacting with the application.
 
 ## Contributing
 
-Your contributions are welcome! If you have suggestions for new features, ideas for improvements, or have found a bug to report, please feel free to contribute:
+We welcome your contributions! Whether it's adding new features, improving existing ones, or fixing bugs, here's how to contribute:
 
 1. Fork the repository.
-2. Create a new branch for your updates.
-3. Implement your changes or fixes.
-4. Commit your updates.
-5. Push your branch and create a new pull request.
+2. Create a new branch for your modifications (`git checkout -b new-feature`).
+3. Implement your changes and commit (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin new-feature`).
+5. Create a new Pull Request.
 
 ## Contact Information
 
-Should you have any questions, suggestions, or wish to contribute to the project, please don't hesitate to reach out:
-
-- **Name**: Akilesh Jayakumar
-- **Email**: jayakuma006@mymail.sim.edu.sg
-- **LinkedIn**: [Connect with Akilesh Jayakumar](https://www.linkedin.com/in/akileshjayakumar/)
-- **GitHub**: [Explore Akilesh Jayakumar's Repositories](https://github.com/akileshjayakumar)
+- **Email**: [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
+- **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
+- **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
