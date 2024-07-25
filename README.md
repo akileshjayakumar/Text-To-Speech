@@ -5,7 +5,6 @@ Here is the link to the live site: [https://akileshjayakumar.github.io/text-to-s
 ## Key Features
 
 - **Dynamic Text-to-Speech Conversion:** Converts text input by users into audible speech, making the content accessible to individuals with visual impairments.
-- **Voice Selection:** Users can select from a variety of voices for a personalized speech output experience.
 - **Responsive Design:** Ensures a seamless user experience across all device types, from desktops to mobile phones.
 - **Intuitive User Interface:** Features a simple, user-friendly interface that is easy to navigate for all users.
 - **Interactive Feedback:** Offers real-time auditory feedback, improving the interactive nature of the application.
@@ -52,6 +51,7 @@ Your contributions are welcome! If you have ideas for improvements or new featur
 5. **Submit a Pull Request**
 
 ## Contact
+
 - **Email:** [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
 - **LinkedIn:** [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
 - **GitHub:** [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
