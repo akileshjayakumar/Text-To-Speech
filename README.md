@@ -1,6 +1,6 @@
 # Text To Speech App
 
-Here is the link to the live site: [https://akileshjayakumar.github.io/text-to-speech](https://akileshjayakumar.github.io/text-to-speech/)
+Here is the link to the live site: [https://akileshjayakumar.github.io/text-to-speech](https://akileshjayakumar.github.io/Text-To-Speech)
 
 ## Setup
 
