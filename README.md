@@ -2,23 +2,7 @@
 
 Here is the link to the live site: [https://akileshjayakumar.github.io/text-to-speech](https://akileshjayakumar.github.io/text-to-speech/)
 
-## Tech Stack
-
-- **Frontend & Backend:**
-  - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
-  - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-  - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-  
-- **Web APIs:**
-  - **[SpeechSynthesis Interface](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)** (part of the Web Speech API)
-
-- **Version Control:**
-  - **[Git](https://git-scm.com/doc)**
-
-- **Deployment:**
-  - **[GitHub Pages](https://docs.github.com/en/pages)**
-
-## Project Setup
+## Setup
 
 To set up the Text to Speech application locally, follow these steps:
 
